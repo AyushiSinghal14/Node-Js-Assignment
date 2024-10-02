@@ -16,9 +16,8 @@ This Task Management API is built using *Node.js, **Express, **MongoDB, and **We
 
 ## Project Structure
 
-
+<pre>
 project-root/
-│
 ├── config/
 │   └── database.js         # MongoDB connection logic
 ├── controllers/
@@ -34,6 +33,8 @@ project-root/
 ├── index.js                 # Main entry point (Express server, WebSocket setup, routes)
 ├── package.json             # Project dependencies
 └── README.md                # Documentation for the project
+</pre>
+
 
 
 ---
